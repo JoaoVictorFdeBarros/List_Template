@@ -2,7 +2,7 @@
 
 ## Objetivo 
 
-Atividade desenvolvida na disciplina de C++ moderno. O objetivo foi implementar uma lista duplamente encadeada a utlizando templates.
+Atividade desenvolvida na disciplina de C++ moderno. O objetivo foi implementar uma lista duplamente encadeada a utilizando templates.
 
 ## Implementação 
 

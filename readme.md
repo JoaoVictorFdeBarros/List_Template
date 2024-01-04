@@ -56,7 +56,7 @@ A sobrecarga do operador "[]" permite recebe uma posição da lista e retorna o 
 
 ##### Tratamento de exceções 
 
-Se a posição for inválida o operador irá retornar uma instancia do tipo "new T" 
+Se a posição for inválida o operador irá retornar uma instãncia do tipo "new T" 
 
 #### Método Remove 
 

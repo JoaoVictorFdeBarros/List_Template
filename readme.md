@@ -1,15 +1,10 @@
 # Informações gerais 
 
-## Compilação 
+## Objetivo 
 
-A partir da pasta raiz do projeto para 
+Atividade desenvolvida na disciplina de C++ moderno. O objetivo foi implementar uma lista duplamente encadeada a utlizando templates.
 
-- Compilar: Digite "make" 
-- Executar: Digite "make run" 
-
-O arquivo executável fica em ./build 
-
-## Sistema 
+## Implementação 
 
 Desenvolvido no Ubuntu 22.04 LTS 
 
